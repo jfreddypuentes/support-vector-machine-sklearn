@@ -1,2 +1,2 @@
-# support-vector-machine-sklearn
-Implementación de clasificación con SVM
+# Clasificación con Support Vector Machine en sklearn
+Implementación de clasificación de flores Iris con SVM
